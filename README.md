@@ -11,18 +11,18 @@ The data on employee performance, salaries, and training has become inconsistent
 * Visualising trends
 
 ## Tool used
-*Excel - Creating interactive dashboards displaying the impact of employee training
+* Excel - Creating interactive dashboards displaying the impact of employee training
 
 ## Conclusion
 The analysis of the project aims to analyze key trends, and support industries make data-driven decisions on employee development and resource planning.
 
 # Contact
 Kindly reach out to me via
-* LinkedIn: [LinkedIn](www.linkedin.com/in/nanayaaboatengowusu)
-* Email: [Email](nannie8bo@gmail.com)
+* LinkedIn: [www.linkedin.com/in/nanayaaboatengowusu](LinkedIn) 
+* Email: [nannie8bo@gmail.com](email)
 
 # Dashboard
-![Screenshot of a dashboard, added in README file.]("C:/Users/Nana Yaa Boateng/Pictures/Screenshots/Dashboard.png") 
+! [Screenshot of a dashboard, added in README file.]("C:/Users/Nana Yaa Boateng/Pictures/Screenshots/Dashboard.png") 
   
   
 
