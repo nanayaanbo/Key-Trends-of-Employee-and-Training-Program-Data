@@ -22,7 +22,7 @@ Kindly reach out to me via
 * Email: [nannie8bo@gmail.com](email)
 
 # Dashboard
-! [Screenshot of a dashboard, added in README file.]("C:/Users/Nana Yaa Boateng/Pictures/Screenshots/Dashboard.png") 
+![image alt]("C:\Users\Nana Yaa Boateng\Pictures\Screenshots\Dashboard.png") 
   
   
 
