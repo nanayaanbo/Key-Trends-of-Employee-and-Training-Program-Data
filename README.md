@@ -22,7 +22,7 @@ Kindly reach out to me via
 * Email: [nannie8bo@gmail.com](email)
 
 # Dashboard
-![image alt]("C:/Users/Nana Yaa Boateng/Pictures/Screenshots/Dashboard.png") 
-  
+  ![Dashboard](https://github.com/user-attachments/assets/6faee04e-ffdf-4719-b354-944e1c82ed23)
+
   
 
