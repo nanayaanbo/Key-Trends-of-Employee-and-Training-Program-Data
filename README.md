@@ -22,7 +22,7 @@ Kindly reach out to me via
 * Email: [nannie8bo@gmail.com](email)
 
 # Dashboard
-![image alt]("C:\Users\Nana Yaa Boateng\Pictures\Screenshots\Dashboard.png") 
+![image alt]("C:/Users/Nana Yaa Boateng/Pictures/Screenshots/Dashboard.png") 
   
   
 
